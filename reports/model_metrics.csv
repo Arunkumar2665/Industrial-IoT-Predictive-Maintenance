@@ -1,0 +1,12 @@
+,value
+rul_mae_hours,11.207838860344351
+rul_rmse_hours,14.107530462910946
+failure_accuracy,0.9625
+failure_precision,0.9297752808988764
+failure_recall_at_0_5,0.9430199430199431
+failure_f1_at_0_5,0.9363507779349364
+failure_roc_auc,0.9938187712039303
+selected_threshold,0.1
+selected_threshold_precision,0.7675438596491229
+selected_threshold_recall,0.9971509971509972
+selected_threshold_f1,0.8674101610904585
